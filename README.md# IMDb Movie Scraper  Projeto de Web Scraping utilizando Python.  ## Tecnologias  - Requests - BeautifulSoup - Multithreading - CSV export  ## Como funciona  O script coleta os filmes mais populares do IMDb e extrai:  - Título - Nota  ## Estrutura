@@ -1,0 +1,19 @@
+# IMDb Movie Scraper
+
+Projeto de Web Scraping utilizando Python.
+
+## Tecnologias
+
+- Requests
+- BeautifulSoup
+- Multithreading
+- CSV export
+
+## Como funciona
+
+O script coleta os filmes mais populares do IMDb e extrai:
+
+- Título
+- Nota
+
+## Estrutura
